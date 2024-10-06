@@ -1,2 +1,3 @@
 # UIX-Lite-Edits
-Just a few custom edits. See README
+Based on verstion 0.4
+
