@@ -1,7 +1,7 @@
 # UIX-Lite-Edits
 Based on verstion 0.4
 
-Added ability to change the Launcher menu orb to a custom tga image. You can set it via Settings/UIX Settings/General Settings then selecting through the Launcher Orb icon setiing.
+Added ability to change the Launcher menu orb to a custom tga image. You can set it via Settings/UIX Settings/General Settings then selecting through the Launcher Orb icon setting.
 
 Icon must be named "customlogo" and bulit in tga format.
 
